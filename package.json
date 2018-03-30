@@ -1,0 +1,11 @@
+{
+  "name": "serverless-rest-api",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.217.1",
+    "uuid": "^3.2.1"
+  }
+}
